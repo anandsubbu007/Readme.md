@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/AL_Anandsubbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandsubbu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anand-subbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand-subbu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anand-a-l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anand-a-l" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12379401/anand-a-l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anand-a-l" height="30" width="40" /></a>
 <a href="https://kaggle.com/anandsubbu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anandsubbu007" height="30" width="40" /></a>
 <a href="https://medium.com/@anandsubbu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anandsubbu7" height="30" width="40" /></a>
 </p>
