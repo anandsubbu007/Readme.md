@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **ERP Software**
 
+- 🔭 I’m currently Learning on **Native Android & Basic Cloud**
+
 - 💬 Ask me about **Flutter, machine learning**
 
 - 📫 How to reach me **anandsubbu7@gmail.com**
