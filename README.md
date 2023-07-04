@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anand</h1>
-<h3 align="center">A passionate Flutter Developer/Business Analyst from India</h3>
+<h3 align="center">A passionate Full Stack Flutter & NestJs Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandsubbu007&label=Profile%20views&color=0e75b6&style=flat" alt="anandsubbu007" /> </p>
 
-- 🔭 I’m currently working on **Ecommerce Along With ERP Software**
+- 🔭 I’m currently working on **E-commerce Along With ERP Software**
 
-- 🔭 I’m currently Learning on **Native Android & Basic Cloud**
+- 🔭 I’m currently Learning on **Native Android & IOS**
 
 - 💬 Ask me about **Flutter, machine learning, NestJS, Dart**
 
